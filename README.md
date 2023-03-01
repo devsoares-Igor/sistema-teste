@@ -3,10 +3,3 @@
 ``````
 npm  install react
 ``````
-
-Instalar o node 
-
-
-``````
-sudo apt install node
-``````
